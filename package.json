@@ -1,0 +1,9 @@
+{
+  "name": "protractor-static-server-plugin",
+  "version": "0.0.1",
+  "description": "Static file server plugin for protractor",
+  "main": "index.js",
+  "repository": "https://github.com/el-davo/protractor-static-server-plugin.git",
+  "author": "el-davo",
+  "license": "MIT"
+}
